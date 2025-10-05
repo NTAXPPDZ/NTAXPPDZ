@@ -18,13 +18,14 @@
 </p>
 ## 🛠️ 技术栈 | Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+
+  <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode" />
 </p>
 
 ## 🌟 当前状态 | Current Status
 <div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=NTAXPPDZ&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7B2D9&icon_color=F7B2D9&text_color=FFFFFF" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTAXPPDZ&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7B2D9&text_color=FFFFFF" />
 </div>
