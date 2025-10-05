@@ -3,10 +3,15 @@
 # ✨ 欢迎来到我的二次元世界 ✨
 
 <!-- 二次元风格横幅 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F7B2D9&center=true&vCenter=true&width=800&height=100&lines=こんにちは!+Welcome+to+my+anime+world!;ようこそ!+ようこそ!+ようこそ!" alt="Typing SVG" />
+<div align="center">
+  <h1>✨ 欢迎来到我的二次元世界 ✨</h1>
+  <p>🎮 代码魔法师 | 🎨 创意设计师 | 🌸 二次元爱好者</p>
+</div>
 
-<!-- 动态二次元角色 -->
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="200" width="800" />
+<!-- 动态分隔线 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7B2D9&height=100&section=header&text=こんにちは!&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+</div>
 
 <!-- 个人信息卡片 -->
 <div align="center">
@@ -54,12 +59,14 @@
 
 <!-- GitHub统计卡片 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NTAXPPDZ&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7B2D9&icon_color=F7B2D9&text_color=FFFFFF" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTAXPPDZ&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7B2D9&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NTAXPPDZ&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7B2D9&icon_color=F7B2D9&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTAXPPDZ&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7B2D9&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 <!-- 连续贡献图表 -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NTAXPPDZ&theme=react-dark&bg_color=0D1117&hide_border=true&color=F7B2D9&line=9C27B0&point=F7B2D9" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NTAXPPDZ&theme=radical&hide_border=true&background=0D1117&stroke=F7B2D9&ring=9C27B0&fire=F7B2D9&currStreakLabel=F7B2D9" alt="GitHub Streak" />
+</div>
 
 ## 📊 本周编码时间 | This Week's Coding Time
 
@@ -116,8 +123,12 @@ No activity tracked this week
 
 ## 🎵 当前播放 | Now Playing
 
-<!-- Spotify播放状态 -->
-[![Spotify](https://novatorem-coral-five.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+<!-- 音乐播放状态 -->
+<div align="center">
+  <img src="https://img.shields.io/badge/🎵-正在播放:二次元音乐-F7B2D9?style=for-the-badge&logo=spotify&logoColor=white" alt="Now Playing" />
+  <br/>
+  <img src="https://img.shields.io/badge/🎶-动漫原声带-9C27B0?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Anime OST" />
+</div>
 
 ## 🎨 二次元名言 | Anime Quotes
 
@@ -148,7 +159,11 @@ No activity tracked this week
 <div align="center">
 
 <!-- 访问统计 -->
-<img src="https://komarev.com/ghpvc/?username=NTAXPPDZ&color=F7B2D9&style=for-the-badge" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NTAXPPDZ&color=F7B2D9&style=for-the-badge" alt="Profile Views" />
+  <br/>
+  <img src="https://img.shields.io/badge/👀-访问次数-F7B2D9?style=for-the-badge&logo=eyeem&logoColor=white" alt="Visit Count" />
+</div>
 
 <!-- 页脚 -->
 <p align="center">
